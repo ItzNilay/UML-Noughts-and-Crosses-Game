@@ -1,6 +1,3 @@
-/**
-* Project Untitled
-*/
 #include <iostream>
 using namespace std;
 class printResult {

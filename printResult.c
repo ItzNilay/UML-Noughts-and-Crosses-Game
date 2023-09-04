@@ -3,8 +3,7 @@ using namespace std;
 class printResult {
 public:
  int board[100][100];
- int i;
- int j;
+ int i,j;
  bool draw;
 bool gameover(){
 

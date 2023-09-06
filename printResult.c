@@ -5,8 +5,8 @@ public:
  int board[100][100];
  int i,j;
  bool draw;
-bool gameover(){
-
+bool gameover()
+{
  for(int i=0; i<3; i++)
  if(board[i][0] == board[i][1] && board[i][0] == board[i][2]
 || board[0][i] == board[1][i] && board[0][i] == board[2][i])
@@ -24,7 +24,8 @@ board[2][2] || board[0][2] == board[1][1] && board[0][2]
  return false;
 }
 };
-int main(){
+int main()
+{
  return 0;
 }
 #endif //_PRINTRESULT_H

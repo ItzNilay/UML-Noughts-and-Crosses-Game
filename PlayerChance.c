@@ -76,4 +76,4 @@ c3.Validate_M
 ove(); return
 0;
 }
-#endif //_PLAYERCHANCE_H
+#endif //_PLAYERCHANCE

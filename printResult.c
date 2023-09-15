@@ -28,4 +28,5 @@ int main()
 {
  return 0;
 }
-#endif //PRINTRESULT
+#endif 
+//PRINTRESULT

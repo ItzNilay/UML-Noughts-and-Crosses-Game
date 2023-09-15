@@ -28,4 +28,4 @@ int main()
 {
  return 0;
 }
-#endif //_PRINTRESULT
+#endif //PRINTRESULT

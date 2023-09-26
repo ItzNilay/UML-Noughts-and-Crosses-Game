@@ -1,4 +1,3 @@
-
 #ifndef
 _PLAYERCHANCE_H
 #define
